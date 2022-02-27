@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation of some officers of the Army, to the Right Honourable Lieutenant General Fleetwood. November 1. 1659.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86876</idno>
+            <idno type="STC">Wing H3639</idno>
+            <idno type="STC">Thomason E1005_8</idno>
+            <idno type="STC">ESTC R202467</idno>
+            <idno type="EEBO-CITATION">99862732</idno>
+            <idno type="PROQUEST">99862732</idno>
+            <idno type="VID">114907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114907)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation of some officers of the Army, to the Right Honourable Lieutenant General Fleetwood. November 1. 1659.</title>
+                  <author>Morley, Herbert, 1616-1667.</author>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+               </titleStmt>
+               <extent>8, 7-11, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Col. Herbert Morley [and eight others].</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Variant: title page lacks word "Delivered,".</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114907:1" rendition="simple:additions"/>
+            <p>THE HUMBLE REPRESENTATION OF SOME Officers OF THE ARMY, To the Right Honourable LIEUTENANT GENERAL <hi>FLEETWOOD.</hi>
+            </p>
+            <p>
+               <hi>November</hi> I. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114907:2"/>
+            <pb n="3" facs="tcp:114907:2"/>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S we are Engliſhmen and Chriſtians, as we have been imbarked from the beginning of the Wars, have born our ſhare in the burden and heat of the day, are Commiſſioned by the Parliament, as other Officers of the Army are; and look upon our ſelves, and our Families as concerned in the Weal, or the Woe of the Land of our Nativity, we cannot neglect any means that may prevent, or be parties to any thing that may promote the deſtruction of this poor Nation: And therefore beholding with ſad and bleeding hearts, the late renewed Breach made upon this Parliament, the Conſequents whereof will be in more then probable Conjecture, not only the rendring of all the blood and Treaſure ſhed and ſpent for the deliverance of poor <hi>England,</hi> fruitleſs; but alſo the bringing of theſe Nations into Blood, Deſtruction and Confuſion; Than which no<g ref="char:EOLhyphen"/>thing can be more advantagious to Papiſts, and all bloody enemies to Juſtice and true Godlineſs: ſo that we cannot
+<pb n="4" facs="tcp:114907:3"/>with juſt Peace and ſatisfaction to our own Conſciences ſit down altogether in ſilence, but as in ſome meaſure, we do pour out our hearts before the Lord, ſo we think it our Duty to preſent you with ſome of our ſerious Thoughts, Appre<g ref="char:EOLhyphen"/>henſions and Fears, As alſo our deſires, that you would con<g ref="char:EOLhyphen"/>ſider in time before the Lord, what a Floodgate is opened for a Deluge of miſeries to be poured down upon this Nati<g ref="char:EOLhyphen"/>on, and how much you are concerned, as you tender the honour of God, the Vindication of Religion, the Credit of the Goſpel, the Recouery of your own Reputation that now lies at ſtake, the juſt ſatisfaction that all ſober Chriſtians and true Engliſhmen may challenge from you, and the Relief of your native Countrey that is now ſinking in her deareſt con<g ref="char:EOLhyphen"/>cernments, and cries out for help, That you would (before it is too late) improve your utmoſt Intereſt and Power, to put a ſtop to that deſtructive Cariere that the Army now is ingaged in, to obviate the too great advantages that for<g ref="char:EOLhyphen"/>reign and domeſtick enemies have now put into their hands, and ſeaſonably to hinder theſe new Counſels that have no Parlimentary Sanction, and ſo muſt be grievous to the free born people of <hi>England</hi> in any thing they do. We addreſs our ſelves to you, not only as being of eminent intereſt, but becauſe you have profeſt Religion, and ſtrictneſs of Godli<g ref="char:EOLhyphen"/>neſs at a high rate, and much tenderneſs of ſpirit. Many ſober Chriſtians have had great hopes of you, and we are not without confidence our ſelves, yet we know that you are in a very great Tempration; the Lord grant that your Temptation may not be ſeconded with a divine Deſertion, we are jealous over you; many are at a ſtand what to think of you, it was believed that when Engliſh Liberties were in late years ſo much infringed, that you did rather bewail them, then fully conſent to what was done, give us leave in faithfulneſs, and with breakings of heart to tell you, that preſent Actings do ſeem more tranſcendently to ſtrike at the Liberties of the
+<pb n="5" facs="tcp:114907:3" rendition="simple:additions"/>Engliſh Nation, and there is none now upon the ſtage of Action, that can pretend to the ſame advantages the for<g ref="char:EOLhyphen"/>mer Protector had. Let not our hopes as to you be fruitleſs, nor our deſires altogether rejected, if you will not hear the cries of the condition of this poor Nation, the Lord will in his time, and believe it, there are thouſands of precious ſouls in <hi>England</hi> (whatever ſome may think of them) and will be found precious at the day of Chriſts appearing, who are at this day weeping in ſecret places for the unwarrantableneſs of theſe undertakings, and therefore let us ſpeak this once to you, enter into your Chamber, yea into the Cloſet of your own heart, come with your heart in the ſight of that God whoſe cies are a flame of fire, and whoſe eie-lids try the Children of men, and then labour to give to <hi>England Scot<g ref="char:EOLhyphen"/>land</hi> &amp; <hi>Ireland</hi> a through proof of your faithfulneſs, humility, ſelfe denial, and publick ſpiritedneſs by timely retracting of late unjuſtifiable actings, in violating that authority whom we have all lately owned, and by whom we have lately been intruſted by Commiſſions. The good people of this Nation have been formerly deceived by good words and fair promiſes; Setting daies a part for ſeeking God in faſting, when the way is not good, will not hereafter blind Engliſh eyes, doing things unwarrantably, and then intituling God to them, as they will never the more be owned by God, ſo they will be never the more acceptable to decerning men; <hi>He that doth Righteouſneſs is righteous; The fear of the Lord is to depart from evil:</hi> and true Godlineſs can<g ref="char:EOLhyphen"/>not be without a denying of ſelf in all ungodlineſs and wordly luſts. They are juſt indeed who have opportunity and power to be unjuſt, and yet dare not, becauſe of the fear of God; they are truly faithfull, who when they are tempted and provoked to be treacherous, yea and have op<g ref="char:EOLhyphen"/>portunity and power ſo to do, yet will not, dare not
+<pb n="6" facs="tcp:114907:4"/>wound their Truſt; They have the name of God written in their hearts who ſtand in awe of his Precepts, and dare do nothing meerly becauſe their ſword is long enough to do it; and if this be according to the rule of Truth, the queſtion will be, Whether the late and preſent actings of ſo many Officers of the Army be ſuitable yea or no? The Parliament is interrupted, and that by a great part of the Army; and what Parliament? is it not the long Parliament? under whoſe Counſels, the Army (by the bleſſing of God) hath wonne ſo many glorious Battles in the field, both in <hi>England, Scotland</hi> and <hi>Ireland;</hi> That Parliament which through the Mercy of God, together with the ſubordinate Concurrence of Land and Sea-Forces, was a Terrour to Enemies both abroad and at home: That Parliament which was ſo conſtantly, willing and ready, both to ſatisfie Publick Debs and contracted Arreares, and to provide conſtant pay for the Army and Navy: That Parliament whoſe former interruption was found to be no wayes advantagious to the Nation. Have not the Affairs of <hi>England</hi> both abroad, and at home been declining ever ſince? And was not this Army brought into ſuch a perplexed condition by an over-ruling hand of Providence that it was forced to profeſs before God and Man its ſence of backſlidings, and its duty to take ſhame to it ſelf even for that force it had offered to this Parliament? Did not this Army acknowledge this Parliament, the only viſible Authority of this Nation? And thereupon ſolemnly de<g ref="char:EOLhyphen"/>ſire and invite them to the diſcharge of their remaining Truſt, promiſing all Faithfulneſs and aſſiſtance therein; Is it not to be conſidered, that this Parliament, notwithſtand<g ref="char:EOLhyphen"/>ing they could not but ſee that they muſt ſit again under great difficulties &amp; diſadvantages becauſe the Treaſure was exhauſt<g ref="char:EOLhyphen"/>ed, vaſt debts were contracted, and the Souldiery and Sea<g ref="char:EOLhyphen"/>men
+<pb n="7" facs="tcp:114907:4"/>unpaid, yet being invited, how did they break through thoſe diſ-couragements, and undertooke <hi>difficillimam Pro<g ref="char:EOLhyphen"/>vinciam,</hi> who were no ſooner aſſembled, but a general, deſperate and deep laid-plot, ſtares them in the face, and in many places breaks forth upon them; and can it be denyed? that the Lord was pleaſed in every part of the Na<g ref="char:EOLhyphen"/>tion where the plot brake forth to take the honour of the ſucceſs chiefly to himſelf, and we may truly ſay, that by Grace we were outwardly ſaved leaſt any man ſhould boaſt: and can any be ſo injurious as not to acknow<g ref="char:EOLhyphen"/>ledge that by the late ſudden Calming of the ſtorm, God was pleaſed afreſh to own, and that signally the Counſels of this Parliament? Yet this Parliament muſt againe be interrupted, and that by thoſe who had ſeve<g ref="char:EOLhyphen"/>ral wayes engaged ſolemnly to them afreſh, and in the late Petition, how many times do the Officers engaged therein ſeem to take a pleaſure in ſtyling themſelves the faithfull ſervants and faithfull Army of this Parliament. Yet now, with what reality, we ſhall with griefe of heart conſider, and the world will judge; eſpecially becauſe al<g ref="char:EOLhyphen"/>ready there are ſo many at worke with Tongue, yea ſome with pen to beſpatter the Armies acknowledged Maſters, and conſequentialy to bring Parliaments out of credit, if poſſible, ſo as to beſool people into a belief, that Parliaments will not do the work, but the eys of Engliſhmen are not ſo eaſily put out: We have not forgotten that it was an old Court deſigne, not only to allure, but to affright Engliſhmen out of their love to, and their very diſcourſe of a Parliament; yet there was a Parliament at laſt which found work enough for all the Courtiers in the Nation: We are not ignorant how that there have been Attempts of later date to wean this Engliſh Na<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:114907:5" rendition="simple:additions"/>from love unto their Parliament; and fair things have been promiſed, and ſome good things have been endeavoured to have been done by another hand, yet there was ſtill a neceſſity of calling Parliaments; and when an intire houſe of Commons would not doe, a part thereof ſhall be made uſe of; and when a part would not ſerve the turn, it alſo muſt take its turne to goe off the ſtage; and when now Parliaments ſeem<g ref="char:EOLhyphen"/>ed troubleſome, the long Parliament (ſtyled by the Army the famous long Parliament) muſt be called again; which is not an obſcure evidence that the ſpi<g ref="char:EOLhyphen"/>rit of the free-born Engliſhmen (notwithſtanding Par<g ref="char:EOLhyphen"/>liament interruptions yet) is ſtill working towards a Parliament, and that old Maxime will not eaſily be ob<g ref="char:EOLhyphen"/>literated out of the Tables of Engliſh hearts, <hi>Quod om<g ref="char:EOLhyphen"/>nes tangit, ab omnibus tractari debet:</hi> This Engliſh Nati<g ref="char:EOLhyphen"/>on will be loth to loſe their Hereditary and Birth<g ref="char:EOLhyphen"/>right priviledge of making their own Laws by which they ſhall be governed: We have had ſuch experien<g ref="char:EOLhyphen"/>ces of a Parlamentary States-Phyſitians that have at<g ref="char:EOLhyphen"/>tempted in an uncouth way to heale the Nation, and this with ſo little ſucceſs, as that we (and we do believe that there are many thouſands of our minde) doe know no helpe under God like that of a Par<g ref="char:EOLhyphen"/>liament: But now wee are told, that as there is noe Authority in the Nation, ſo all Authority is devol<g ref="char:EOLhyphen"/>ved upon, and reſides in the Army, that is, in the Officers, and our Government muſt be a Sword-Go<g ref="char:EOLhyphen"/>vernment; And ſhall this be ſpoaken by any that ſhall preeſume to take the name of an holy juſt God in<g ref="char:EOLhyphen"/>to his mouth? Is <hi>Englands</hi> Dear bought free<g ref="char:EOLhyphen"/>dome come to this? Our hearts would ſinke, but
+<pb n="7" facs="tcp:114907:5"/>that we know the Lord doth raign, and if it were poſſi<g ref="char:EOLhyphen"/>ble for to prevent it, we would ſay, Tell it not in <hi>Gath,</hi> and let it not be publiſhed in the gates of <hi>Aſhkelon,</hi> leſt the Daughters of the <hi>Philiſtims</hi> triumph. Have men been beheaded, baniſhed, and ſlain in the Field for do<g ref="char:EOLhyphen"/>ing things contrary to Engliſh Lawes, and ſhall this Ar<g ref="char:EOLhyphen"/>my bury Engliſh Lawes and the Legiſlature it ſelf all at once, and take all into their own hands? But no que<g ref="char:EOLhyphen"/>ſtion ſome will ſay, there ſhall be juſt things. It is not the doing of ſome ſeeming righteous things, that will ſatiſ<g ref="char:EOLhyphen"/>fie the juſt expectations and Claims of this Engliſh Nati<g ref="char:EOLhyphen"/>on, when they ſee that all that they have lyes at the mercy of their Fellow-ſervants. We have not forgot<g ref="char:EOLhyphen"/>ten what was once told to the late King, and that by a Parliament, That it is better to rule in the hearts of men by love and juſtice, then to rule over them by force and power. An Arbitrary Sword may tyrannize over mens perſons and eſtates for a time, but it doth never conquer Spirits. We would have hoped that no part of this Army that profeſſeth ſo much for Chriſt and his Kingdome, would have ever ſo much as coaſted upon the courſe of the Egyptian Mamalukes, or the Romane Pretorian Bands. But let men make ſure of this, that what God did ſeem to wink at amongſt ignorant Hea<g ref="char:EOLhyphen"/>thens that were no better taught, he will not ſo eaſily o<g ref="char:EOLhyphen"/>verlook when acted by thoſe who ſhould have better learned Chriſt: For Chriſt hath ſaid it, That he that takes the Sword ſhall periſh with the Sword. And for certain, what was lately acted and now acting, will come under the judgement of Chriſt who is no reſpecter of perſons, and before whom all the power and force of this world is as nothing, but as the drop of the Bucket, and as the duſt of the Ballance. We are not ignorant of the great Argument why this Parliament was interrupt<g ref="char:EOLhyphen"/>ed; What? Muſt nine Families be undone at once? Far be it from us to deſire the undoing of any, much leſs of thoſe for whom we have ſo great a reſpect: And we could heartily wiſh, that affairs might be compoſed to
+<pb n="8" facs="tcp:114907:6"/>mutuall ſatisfaction, and we are apt to fear that all good men will at the long-run find the ſmart and inconveni<g ref="char:EOLhyphen"/>ence of theſe unhappy Diviſions. But what? are Mili<g ref="char:EOLhyphen"/>tary Commands ſo eſſential to the well being of men, if not to their beings, that they ſhall count themſelves undone, if their Commiſſions be but vacated by Parlia<g ref="char:EOLhyphen"/>ment? If vacating of Commiſſions be an undoing, how many hundreds of Families have been undone time after time at the pleaſure of the Parliament? Did not the Par<g ref="char:EOLhyphen"/>liament in the year 1645, think fit to lay aſide theſe Ge<g ref="char:EOLhyphen"/>neral Officers enſuing, namely the Earl of <hi>Eſſex,</hi> the Earl of <hi>Warweck,</hi> the Earl of <hi>Mancheſter, Ferdinando</hi> Lord <hi>Fairfax,</hi> Sir <hi>William Waller,</hi> Major General <hi>Maſſey,</hi> Sir <hi>William Brereton,</hi> Collonel <hi>Reſſiter,</hi> and many other Offi<g ref="char:EOLhyphen"/>cers? Yea how many Commiſſions have been vacated lately by the Committee of Nominations, and the former have for many years ſate down in ſilence and peaceably at home, who have been known in their time to have done as good ſervice; and happily divers of them might be thought to deſerve a Military truſt, as well as ſome others: But let the utmoſt be granted, which cannot be imagined, that it were a kind of outward undoing: muſt the Parliament be broken up? Muſt the only Authority of the Nation be trampled upon to prevent ſuch an un<g ref="char:EOLhyphen"/>doing? Nay more, muſt the ſaving of nine Commiſſi<g ref="char:EOLhyphen"/>ons be of ſuch weight in the Ballance of Conſideration, as that the undoing of ſo many Millions of Fa<g ref="char:EOLhyphen"/>milies in theſe Nations ſhall be put to open hazard? but it may be preſumed that all will go well, becauſe there is ſuch a ſeeming compliance: we well re<g ref="char:EOLhyphen"/>member that generall Subſcriptions and often Addreſſes, have in very late experience, proved but a rotten prop or ſandy foundation, to ſome who have ei<g ref="char:EOLhyphen"/>ther leaned or built too much upon them: we call to mind, that at firſt, that as the Warre was, ſo it was aſſerted to be, defenſive on the Parliaments part; and we do believe, that when we formerly with ſuch heat and activity did proſecute the Cavileere,
+<pb n="9" facs="tcp:114907:6"/>as the declared Enemy to Engliſh Freedomes aſſer<g ref="char:EOLhyphen"/>ted in Parliament, and when we were in the dayes of our extremity amongſt Garments rouled in bloud, and many times expecting our entrance into eternity by ſome inſtruments of death; that it was not then judg<g ref="char:EOLhyphen"/>ed by any to be part of the <hi>good Old Cauſe,</hi> to wreſt all Power and Authority out of the hands of the peo<g ref="char:EOLhyphen"/>ples Repreſentatives in Parliament, and to fix it in an Army. We have the rather taken upon us the li<g ref="char:EOLhyphen"/>berty thus to expreſs our moans unto your Lordſhip, relating to theſe Affairs now in hand, becauſe ſome of us were deſired (which we took for a command) to withdraw from the Councell of the Officers, though we are Commiſſionated Officers by Parliamentary Authority as well as others; and therefore we cannot willingly Subſcribe to the freedome of thoſe debates, where any without any juſt allegation are ſecluded or ſuſpended: and then we did deſire that we might not be concluded by, or lookt upon as Parties to any thing which ſhould be there concluded on. We are Engliſh-men born and bred, and have adventured our deareſt blood with others for our freedomes, and by the mercy of God, the common Enemy could not withhold them from us; we ſhall not willingly by any act of ours give them away: If any of our <hi>fel<g ref="char:EOLhyphen"/>low Servants will</hi> (becauſe they can) by force take our freedomes from us; If we have no appeal on Earth, yet our eyes ſhall be towards him that judgeth righ<g ref="char:EOLhyphen"/>teouſly, and our Prayers ſhall be, Lord help us, for thou art the helper of the oppreſſed. We have not much further to ſay unto your Lordſhip but this, we muſt lay before you, that in what you now do, you run three Nations into moſt deſperate hazard, all lies at ſtake, and all lies a bleeding. The Queſtion now is, Whether it be not more honourable upon a Chri<g ref="char:EOLhyphen"/>ſtian account, and ſafe for you and others, to ſound a ſeaſonable Retreat, then to March on in waies which one day will not be juſtified before him who is a
+<pb n="10" facs="tcp:114907:7"/>conſuming fire. The Parliament of <hi>England</hi> never raiſed or maintained Souldiers to be Law-makers, but to defend this Nation againſt thoſe who were Law-breakers. Let not, Oh let not any who have any ſtirrings of Conſcience, juſtifie that in their own practice which they have fought down in others; Re<g ref="char:EOLhyphen"/>ligion and the Goſpell ſhould be, and we hope will be dearer to us then our lives, our Liberties and E<g ref="char:EOLhyphen"/>ſtates which in their place we muſt value. We know that the Lord of Heaven is he alone upon whom (for the maintenance of theſe) we muſt chiefly depend. But according to humane conſideration, and as we are Engliſh Freemen, and in this age have been beaten into the knowledg where our Engliſh Freedomes may be moſt ſafely lodged, ſo we muſt in all humility bear our open teſtimony to you, that we know, nor can willingly own no ſafer meanes for the ſecuring of all theſe, then in the Parliament, the people of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Aſſembled in Parliament by their Repreſentatives, we muſt own to be our proper Law-makers, and to have Legiſlative power, and to have power Legally to levy Taxes upon the People. We muſt own it that the Militia and ſtanding Forces of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> ought to be ſubordinate to, and to be diſpoſed by commands of Parliament, and of ſuch Powers as are delegated by Parliament. And therefore again it is the earneſt deſire of our hearts to your Lordſhip, that you would lay <hi>Englands</hi> ſad condition and the intereſt of Chriſt in the world to heart, and conſider the hopes of all ſorts of enemies by the late ſad breach, and lay to heart the ſad ſighs, tears, and groans of thou<g ref="char:EOLhyphen"/>ſands of precious ſouls in this Nation, as alſo the fears of many, that the glory is departing from our <hi>Iſrael:</hi> and alſo conſider your own danger and the danger of the Army, in the wayes they now are; and that you would effectually endeavour the removing of the preſent force upon the Parliament, that they may ſit in ſafety and without interruption, for this we
+<pb n="11" facs="tcp:114907:7"/>judg (as the Army not long ſince have done) the moſt likely expedient to make way for <hi>Englands</hi> ſettlement, and therefore why ſhould you not interpoſe? it will be your honour, that by your meanes the door be once more opened, that this Parliament may take ſome effectuall courſe, for as comprehenſive an election of a ſucceed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament, as the ſafety of the Cauſe will bear. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to common enemies themſelves we can tru<g ref="char:EOLhyphen"/>ly ſay, that we wiſh them equall benefit with our ſelves under Parliamentary Lawes. We only deſire, That proviſion may be made, that the Parliament and well affected of the Nation may not be at the Enemies mer<g ref="char:EOLhyphen"/>cy. In this our addreſs to you, We have deſired in faith<g ref="char:EOLhyphen"/>fullneſs to bear our teſtimony, and when we have done, we muſt leave all to the diſpoſe of Him that rules all the world, and lay it before your ſerious and retired conſi<g ref="char:EOLhyphen"/>deration. We remain</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips moſt humble Servants</hi>
+                  <list>
+                     <head>This Letter was ſigned by theſe Officers</head>
+                     <item>Col. <hi>Herbert Morley.</hi>
+                     </item>
+                     <item>Col. <hi>Thomas Sanders.</hi>
+                     </item>
+                     <item>Col. <hi>John Okey.</hi>
+                     </item>
+                     <item>Col. <hi>Mathew Alured.</hi>
+                     </item>
+                     <item>Col. <hi>Henry Markham.</hi>
+                     </item>
+                     <item>
+                        <hi>John Streater</hi> Comptroller of the Ordnance.</item>
+                     <item>Liut. Col. <hi>William Farley.</hi>
+                     </item>
+                     <item>Major <hi>Arthur Evelyn.</hi>
+                     </item>
+                     <item>Major <hi>Nathaniel Barton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
